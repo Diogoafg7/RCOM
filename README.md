@@ -6,6 +6,6 @@
 2. Abrir Socket (abst)
 3. Authentication
 4. Passive mode e dar pass da resposta
-5. Socket Data
-   Recive Data
+5. -Socket Data
+   -Recive Data
 6. Close

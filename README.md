@@ -1,9 +1,11 @@
 # RCOM
 
 * Esquema TP 2
-  
+
+ftp://userpassword@host/path/file
+ 
 1. Parse crd
-2. Abrir Socket (abst)
+2. Abrir Socket (host)
 3. Authentication
 4. Passive mode e dar pass da resposta
 5. -Socket Data

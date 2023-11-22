@@ -14,5 +14,5 @@ ftp://userpassword@host/path/file
 
 ![image](https://github.com/Diogoafg7/RCOM/assets/95471762/b886e503-1277-466f-8803-a5d953b14eca)
 
-**professor na entrega vai mudar endereço e temos de saber que mudanças o endereço vai fazer no programa!!**
+**professor na entrega vai mudar endereço e temos de saber que mudanças o endereço vai fazer no programa!!** (172.16.y0.0/24)
 

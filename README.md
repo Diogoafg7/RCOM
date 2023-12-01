@@ -16,3 +16,10 @@ ftp://userpassword@host/path/file
 
 **professor na entrega vai mudar endereço e temos de saber que mudanças o endereço vai fazer no programa!!** (172.16.y0.0/24)
 
+TODO:
+main
+readResponse
+getip
+createFile
+
+
